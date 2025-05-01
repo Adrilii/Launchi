@@ -1,7 +1,8 @@
 [
     {
-        "name": "Modpack 1",
-        "version": "1.18.2",
+        "name": "BK",
+        "version": "1.20.1",
         "url": "https://github.com/tuusuario/modpacks/releases/download/modpack1/modpack1.zip"
+        "modloader": "forge-1.20.1-47.4.0"
     }
 ]
