@@ -1,8 +1,6 @@
-[
-    {
-        "name": "BK",
-        "version": "1.20.1",
-        "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/BK.zip",
-        "loader": "forge"
-    }
-]
+{
+  "name": "BK",
+  "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/BK.zip",
+  "version": "1.20.1",
+  "loader": "forge"
+}
