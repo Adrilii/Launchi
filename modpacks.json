@@ -5,6 +5,7 @@
     "version": "1.20.1",
     "loader": "forge",
     "modpackVersion": "1.1.0",
-    "changelog": "Se han añadido nuevos mods y actualizado configuraciones."
+    "changelog": "Se han añadido nuevos mods y actualizado configuraciones.",
+    "config.ram = 4096"
   }
 ]
