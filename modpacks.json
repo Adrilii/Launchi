@@ -11,10 +11,10 @@
     {
     "name": "PRUEBA",
     "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/prueba-2.0.zip", 
-    "updateUrl": "https://.../BK-1.1.0-update.zip",
+    "updateUrl": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/update-prueba.zip",
     "version": "1.20.1",
     "loader": "forge",
-    "modpackVersion": "1.2.0",
+    "modpackVersion": "1.3.0",
     "changelog": "Se han añadido nuevos mods y actualizado configuraciones."
   }
 ]
