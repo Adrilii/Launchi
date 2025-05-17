@@ -2,6 +2,7 @@
   {
     "name": "BK",
     "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/Alaunchi-1.1.1-resourcepacks.zip",
+    "updateUrl": "https://.../BK-1.1.0-update.zip",
     "version": "1.20.1",
     "loader": "forge",
     "modpackVersion": "1.1.1",
@@ -9,7 +10,8 @@
   },
     {
     "name": "PRUEBA",
-    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/prueba-2.0.zip",
+    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/prueba-2.0.zip", 
+    "updateUrl": "https://.../BK-1.1.0-update.zip",
     "version": "1.20.1",
     "loader": "forge",
     "modpackVersion": "1.2.0",
