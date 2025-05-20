@@ -6,7 +6,10 @@
     "version": "1.20.1",
     "loader": "forge",
     "modpackVersion": "1.1.1",
-    "changelog": "¡¡Se han agregado nuevos emotes!!"
+    "changelog": "¡¡Se han agregado nuevos emotes!!",
+    "background": "https://example.com/img/bkraft-banner.png",
+    "logo": "https://example.com/img/bkraft-logo.png",
+    "buttonImage": "https://example.com/img/bkraft-boton.png"
   },
     {
     "name": "PRUEBA",
