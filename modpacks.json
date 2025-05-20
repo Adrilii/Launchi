@@ -7,9 +7,9 @@
     "loader": "forge",
     "modpackVersion": "1.1.1",
     "changelog": "¡¡Se han agregado nuevos emotes!!",
-    "background": "https://example.com/img/bkraft-banner.png",
-    "logo": "https://example.com/img/bkraft-logo.png",
-    "buttonImage": "https://example.com/img/bkraft-boton.png"
+    "background": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/background.png",
+    "logo": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/logo.png",
+    "buttonImage": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/buttonImage.png"
   },
     {
     "name": "PRUEBA",
