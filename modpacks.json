@@ -2,10 +2,10 @@
   {
     "name": "BK",
     "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/Alaunchi-1.1.1-resourcepacks.zip",
-    "updateUrl": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/update-server.zip",
+    "updateUrl": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/update-.json.zip",
     "version": "1.20.1",
     "loader": "forge",
-    "modpackVersion": "1.1.2",
+    "modpackVersion": "1.1.3",
     "changelog": "¡¡Se han agregado nuevos emotes!!",
     "background": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/background.png",
     "logo": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/logo.png",
