@@ -13,7 +13,7 @@
   },
     {
     "name": "PRUEBA",
-    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/prueba-2.0.zip", 
+    "url": "", 
     "updateUrl": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/Nueva.carpeta.2.zip",
     "version": "1.20.1",
     "loader": "forge",
