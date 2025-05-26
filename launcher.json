@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
   "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/ALaunchi-update.exe",
-  "changelog": "Correccion en las actualizaciones de instancia."
+  "changelog": "Se ha añadido indicador de version y loader a las instancias. Ahora puedes cambiar la ram de cada instancia dandole click derecho y 'memoria RAM' Y descargar mods, paquetes de texturas o shaders desde el apartado de añadir contenido (En desarrollo)"
 }
