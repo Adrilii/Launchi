@@ -14,7 +14,7 @@
     {
     "name": "PRUEBA",
     "renameTo": "PRUEBITA",
-    "url": "", 
+    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/ALaunchi.rar", 
     "updateUrl": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/Nueva.carpeta.2.zip",
     "version": "1.20.1",
     "loader": "forge",
