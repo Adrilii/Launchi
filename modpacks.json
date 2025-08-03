@@ -12,15 +12,16 @@
     "buttonImage": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/buttonImage.png"
   },
     {
-    "name": "joe",
+    "name": "Vanilla+",
     "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/ALaunchi.rar", 
-    "updateUrl": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/act-1.1.4.zip",
-    "version": "1.20.1",
-    "loader": "forge",
-    "modpackVersion": "1.7.7",
-    "changelog": "Se han añadido nuevos mods y actualizado configuraciones.",
+    "updateUrl": "",
+    "version": "1.21.8",
+    "loader": "fabric",
+    "modpackVersion": "1.0.0",
+    "changelog": "",
     "background": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/2025-05-18_05.25.22.png",
     "logo": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/logo.png",
     "buttonImage": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/buttonImage.png"
   }
 ]
+
