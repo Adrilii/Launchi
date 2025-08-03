@@ -13,7 +13,7 @@
   },
     {
     "name": "Vanilla+",
-    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/ALaunchi.rar", 
+    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/vanilla+.zip", 
     "updateUrl": "",
     "version": "1.21.8",
     "loader": "fabric",
@@ -24,4 +24,5 @@
     "buttonImage": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/buttonImage.png"
   }
 ]
+
 
