@@ -13,7 +13,7 @@
   },
     {
     "name": "Vanilla+",
-    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/vanilla+.zip", 
+    "url": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/VANILLA+.zip", 
     "updateUrl": "",
     "version": "1.21.8",
     "loader": "fabric",
@@ -24,5 +24,6 @@
     "buttonImage": "https://github.com/Adrilii/Launchi/releases/download/modpack-v1/buttonImage.png"
   }
 ]
+
 
 
